@@ -1,0 +1,18 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+     <%@ page isELIgnored="false" %>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+Introduzca el nombre para buscar el elemento
+ <form action="http://localhost:8080/descuento" method="POST">
+ 	<input type="text" name="nombre">
+ 	<input type="submit" name="">
+ 	
+ </form>
+</body>
+</html>

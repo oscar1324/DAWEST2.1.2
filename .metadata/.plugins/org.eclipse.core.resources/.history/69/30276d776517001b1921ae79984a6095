@@ -1,0 +1,21 @@
+/**
+ * 
+ */
+
+package com.oscar.Clase.Controler;
+
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+/**
+ * @author 201905
+ *
+ */
+@Controller
+public class HolaControler {
+	@RequestMapping("saludo")
+	public String Hola() {
+		return "hola";
+	}
+}

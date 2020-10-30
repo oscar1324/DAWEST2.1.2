@@ -1,0 +1,34 @@
+/**
+ * 
+ */
+package com.example.demo.Datos;
+
+/**
+ * @author 201905
+ *
+ */
+public class ConsultaDatos {
+	
+	public List<String> consultaCoches() throws IOException {
+		File f = new File("C:/Users/6258/Documents/coches.txt");
+		BufferedReader lector = new BufferedReader(new FileReader(f));
+		String linea;
+		
+		List<String> nombres = new ArrayList<>();
+		
+		while((linea = lector.readLine()) != null) {
+			nombres.add(recuperaNombre(linea));
+			
+		}
+		
+		lector.close();
+		return nombres;
+	}
+	
+	String recuperaNombre(String linea) {
+		String[] persona = linea.split("-");
+		
+		return persona[0];
+	}
+	
+}

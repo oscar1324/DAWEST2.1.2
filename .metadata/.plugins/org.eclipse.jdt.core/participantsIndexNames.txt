@@ -1,0 +1,11 @@
+INDEX VERSION 1.131
+C:\Users\201905\Documents\workspace-spring-tool-suite-4-4.8.0.RELEASE\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2408364544.index
+\UsoSpring\target\generated-sources\annotations
+C:\Users\201905\Documents\workspace-spring-tool-suite-4-4.8.0.RELEASE\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2146592305.index
+\demoEL\src\main\java
+C:\Users\201905\Documents\workspace-spring-tool-suite-4-4.8.0.RELEASE\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1171915191.index
+\CapasSpringBoot\src\main\java
+C:\Users\201905\Documents\workspace-spring-tool-suite-4-4.8.0.RELEASE\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\899056501.index
+\demoEL\src\main\java
+C:\Users\201905\Documents\workspace-spring-tool-suite-4-4.8.0.RELEASE\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2567700535.index
+\DAWEST2.1.2\src\main\java

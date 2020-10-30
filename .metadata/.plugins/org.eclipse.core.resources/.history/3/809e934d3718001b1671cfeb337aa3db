@@ -1,0 +1,20 @@
+/**
+ * 
+ */
+package com.example.demo.abajo;
+
+import javax.servlet.annotation.WebServlet;
+
+import org.springframework.web.bind.annotation.RequestMapping;
+
+/**
+ * @author 201905
+ *
+ */
+@Controller
+
+public class Controller {
+	
+	@RequestMapping();
+
+}
